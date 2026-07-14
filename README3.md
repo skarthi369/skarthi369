@@ -1,349 +1,188 @@
 <div align="center">
 <!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  A N I M A T E D   H E A D E R   —   C A P S U L E   R E N D E R  ║
+     ║  A N I M A T E D   H E A D E R  —  V E N O M   C A P S U L E      ║
      ╚══════════════════════════════════════════════════════════════╝ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=KARTHIKEYAN%20S&fontSize=70&color=0:00f5ff,50:7c3aed,100:f472b6&fontColor=e2e8f0&animation=twinkling&stroke=00f5ff&strokeWidth=2&desc=AI%20Neural%20Core%20%7C%20LLM%20Security%20Architect%20%7C%20Gen-AI%20Engineer&descSize=16&descAlignY=75" width="100%"/>
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%A7%A0+Initializing+Neural+Network+Protocol...;%E2%9A%A1+Loading+LLM+Security+Modules...;%F0%9F%94%AC+Activating+Generative+AI+Systems...;%F0%9F%9A%80+System+Ready.+Welcome+to+my+Digital+Cortex." alt="Typing Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=KARTHIKEYAN%20S&fontSize=65&color=0:00f5ff,30:7c3aed,70:f472b6,100:00f5ff&fontColor=e2e8f0&animation=twinkling&stroke=00f5ff&strokeWidth=2&desc=AI%20Engineer%20%7C%20LLM%20Security%20%7C%20Gen-AI%20Architect%20%7C%203x%20Hackathon%20Champ&descSize=15&descAlignY=74&fontAlignY=38" width="100%"/>
 <br/>
-<!-- STATUS INDICATORS -->
-<img src="https://img.shields.io/badge/System-ONLINE-22c55e?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0a0a0f&color=0a0a0f&borderColor=22c55e" alt="System Online"/>
-<img src="https://img.shields.io/badge/CDAC-LIVE%20MISSION-00f5ff?style=for-the-badge&logo= protonvpn&logoColor=white&labelColor=0a0a0f&color=0a0a0f" alt="CDAC"/>
-<img src="https://img.shields.io/badge/ICACT%202026-PUBLISHED-f472b6?style=for-the-badge&logo=academia&logoColor=white&labelColor=0a0a0f&color=0a0a0f" alt="ICACT"/>
+<!-- ═══════════ TYPING BOOT SEQUENCE ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=130&lines=%F0%9F%9A%80%20Initializing%20Neural%20Core...;%E2%9A%A1%20Loading%20LLM%20Security%20Modules...;%F0%9F%94%AC%20Activating%20Generative%20AI%20Systems...;%F0%9F%A7%A0%20System%20Ready.%20Welcome%20to%20my%20Digital%20Cortex.%20%F0%9F%92%AB" alt="Boot Sequence"/>
 <br/><br/>
-<!-- SOCIAL LINKS -->
+<!-- ═══════════ LIVE STATUS INDICATORS ═══════════ -->
+<img src="https://img.shields.io/badge/%E2%97%8F%20SYSTEM-ONLINE-22c55e?style=for-the-badge&labelColor=0a0a0f&color=0a0a0f" alt="System Online"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%E2%97%8F%20CDAC-LIVE%20MISSION-00f5ff?style=for-the-badge&labelColor=0a0a0f&color=0a0a0f" alt="CDAC"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%E2%97%8F%20ICACT%202026-PUBLISHED-f472b6?style=for-the-badge&labelColor=0a0a0f&color=0a0a0f" alt="ICACT"/>
+<br/><br/>
+<!-- ═══════════ NEURAL SOCIAL LINKS ═══════════ -->
 <a href="https://github.com/skarthi369">
-  <img src="https://img.shields.io/badge/NEURAL%20LINK-GitHub-00f5ff?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0f172a" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0a0a0f" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/karthikeyan-s">
-  <img src="https://img.shields.io/badge/NEURAL%20LINK-LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=7c3aed&labelColor=0f172a" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=7c3aed&labelColor=0a0a0f" alt="LinkedIn"/>
 </a>
 <a href="mailto:karthikeyan123401@gmail.com">
-  <img src="https://img.shields.io/badge/NEURAL%20LINK-Email-f472b6?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=0f172a" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=0a0a0f" alt="Email"/>
 </a>
 <br/><br/>
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=skarthi369&color=00f5ff&style=for-the-badge&label=NEURAL+VISITS" alt="Profile Views"/>
+<!-- ═══════════ NEURAL VISIT COUNTER ═══════════ -->
+<img src="https://komarev.com/ghpvc/?username=skarthi369&color=00f5ff&style=for-the-badge&label=NEURAL+VISITS" alt="Visits"/>
 </div>
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  S Y S T E M   I D E N T I T Y                               ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> SYSTEM.IDENTITY
-yaml
-================================================================================
-                         NEURAL CORE PROFILE v2.0
-================================================================================
-
-    [AVATAR]                    KARTHIKEYAN S
-     /‾‾‾‾‾\                   ═══════════════════
-    /  K S  \                  Designation: AI Neural Core / LLM Security Architect
-   |  ╱╲╱╲  |                  Institution: SA Engineering College, Chennai
-    \\_____//                   Degree: B.Tech AI & Data Science
-     ‾‾‾‾‾‾‾
-
-  ┌─────────────────────────────────────────────────────────────────────────┐
-  │  ACTIVE MISSION                                                         │
-  │  ═══════════════                                                        │
-  │  Role:        Generative AI Research Intern                             │
-  │  Org:         CDAC — Centre for Development of Advanced Computing       │
-  │  Project:     LLM-powered Autonomous IDS/IPS                            │
-  │  Status:      🔴 LIVE                                                   │
-  └─────────────────────────────────────────────────────────────────────────┘
-
-  NEURAL SPECIALIZATIONS:
-  ├── Generative AI / LLM Engineering → RAG | Agentic AI | LangChain | LangGraph
-  ├── Computer Vision & Deep Learning → CNNs | Transformers | TensorFlow | OpenCV
-  ├── Full ML Lifecycle               → Data → Train → Evaluate → REST API Deploy
-  └── Cybersecurity AI                → Intrusion Detection | Threat Intelligence
-
-  PUBLICATION:
-  ├── Paper:  "EDITH — Enhanced Daily Interaction & Therapeutic Hardware"
-  │            "for Paralysis Patients"
-  ├── Venue:  ICACT 2026 International Conference
-  └── Status: ✅ ACCEPTED & PRESENTED
-
-  TROPHY CABINET:
-  ├── 🥇 Hexaware 36-Hour National Hackathon — Enterprise AI Track (WINNER)
-  ├── 🥇 Prompt-o-Mania Hackathon — Generative AI Track (WINNER)
-  └── 🥇 Sparathon — Semantic Understanding & Fine-Tuning (WINNER)
-
-  SEEKING ROLES: Python Developer | AI-ML Engineer | LLM Security Engineer
-  AVAILABILITY:  Open for collaborations on LLM Security, GenAI, Computer Vision
-
-================================================================================
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  T E C H   A R S E N A L  —  S K I L L   M A T R I X         ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/> TECH.ARSENAL
-Programming Languages
-Table
-Language	Proficiency	Neural Status
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25"/>	████████████████████ 95%	ACTIVE
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="25"/>	██████████████░░░░░░ 70%	STANDBY
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="25"/>	███████████████░░░░░ 75%	ACTIVE
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="25"/>	████████████░░░░░░░░ 60%	STANDBY
-AI / ML / GenAI Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1a1a2e" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=1a1a2e" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=1a1a2e" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=1a1a2e" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-00f5ff?style=flat-square&logo=langchain&logoColor=black&labelColor=1a1a2e" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Ollama-ffffff?style=flat-square&logo=ollama&logoColor=black&labelColor=1a1a2e" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Gemma-f472b6?style=flat-square&logo=google&logoColor=white&labelColor=1a1a2e" alt="Gemma"/>
-</p>
-Backend & Web
-<p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=1a1a2e" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1a1a2e" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1a1a2e" alt="React"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=1a1a2e" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=1a1a2e" alt="Streamlit"/>
-</p>
-DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a2e" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e" alt="Git"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=1a1a2e" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=1a1a2e" alt="Jupyter"/>
-</p>
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  F E A T U R E D   M I S S I O N S                           ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQAX/giphy.gif" width="35"/> FEATURED.MISSIONS
-🛡️ MISSION.01 — AI Firewall: LLM-powered IDS/IPS
-plain
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                             ║
-║   NETWORK TRAFFIC                                                          ║
-║        │                                                                    ║
-║        ▼                                                                    ║
-║   ┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌─────────┐ ║
-║   │   Feature    │───▶│   Hybrid     │───▶│    LLM       │───▶│  ACTION │ ║
-║   │  Extraction  │    │  Retrieval   │    │  Classifier  │    │ BLOCK/  │ ║
-║   └──────────────┘    └──────────────┘    └──────────────┘    │ ALLOW   │ ║
-║                              ▲                                  └─────────┘ ║
-║                              │                                              ║
-║                        [Embeddings + Keyword Search]                        ║
-║                                                                             ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-Stack: Python · LLMs · Docker · Dense Vector Embeddings · REST APIs · Cybersecurity AI
-Production-grade autonomous intrusion detection & prevention system exposed via REST APIs. Combines dense vector embeddings with keyword search in a hybrid retrieval pipeline for contextual threat intelligence, then hands the result to an LLM for real-time classification. Containerized and deployed with Docker.
-Status: ● OPERATIONAL
-🔍 MISSION.02 — Deepfake Detection: CNN-Transformer Hybrid
-plain
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                             ║
-║   INPUT IMAGE                                                               ║
-║        │                                                                    ║
-║        ▼                                                                    ║
-║   ┌─────────────────┐    ┌────────────────────┐    ┌──────────────────┐    ║
-║   │ OpenCV          │───▶│ 10-Layer Deep CNN  │───▶│ Transformer      │    ║
-║   │ Preprocessing   │    │ 653K+ Parameters   │    │ Feature Extract  │    ║
-║   └─────────────────┘    └────────────────────┘    └────────┬─────────┘    ║
-║                                                             │              ║
-║                                                             ▼              ║
-║                                                      ┌──────────────────┐   ║
-║                                                      │ Binary Classifier│   ║
-║                                                      │  88% Validation  │   ║
-║                                                      │    Accuracy      │   ║
-║                                                      └──────────────────┘   ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-Stack: TensorFlow · CNN · Transformers · OpenCV · Computer Vision
-10-layer deep CNN with 653K+ parameters achieving ~88% validation accuracy on binary deepfake classification, extended with Transformer-based feature extraction and OpenCV preprocessing for robust image analysis.
-Status: ● OPERATIONAL
-💬 MISSION.03 — MindfulChat: Emotion-Aware AI Wellness
-plain
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                             ║
-║                        5-AGENT NEURAL ARCHITECTURE                          ║
-║                                                                             ║
-║   USER INPUT ──▶ ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐ ║
-║                  │ Emotion │───▶│  Risk   │───▶│ Therapy │───▶│ Memory  │ ║
-║                  │  Agent  │    │  Agent  │    │  Agent  │    │  Agent  │ ║
-║                  └─────────┘    └─────────┘    └─────────┘    └────┬────┘ ║
-║                                                                     │      ║
-║                                                                     ▼      ║
-║                                                               ┌─────────┐  ║
-║                                                               │ Report  │  ║
-║                                                               │  Agent  │  ║
-║                                                               └─────────┘  ║
-║                                                                             ║
-║   Stack: React · TypeScript · Ollama · Gemma · NLP (Privacy-First LLM)      ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-Status: ● OPERATIONAL
-🎣 MISSION.04 — Phishing URL Detection Platform
-Python · Streamlit · Scikit-Learn · Shannon Entropy · SSL Analysis
-ML-based phishing detector combining Scikit-Learn classifiers with entropy analysis, redirect detection, SSL validation, and brand-impersonation checks.
-🌦️ MISSION.05 — Agentic Weather Prediction System
-Python · Streamlit · LSTM · RNN · Graph Neural Networks
-Autonomous forecasting platform integrating LSTM, RNN, and GNN models with reinforcement learning for continuous adaptation using real-time satellite data.
-🧩 MISSION.06 — Multi-Agent AI Orchestration Framework
-Python · AsyncIO · LangGraph
-Planner-executor-reviewer multi-agent workflows with dynamic routing, state management, and checkpoint recovery.
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  E X P E R I E N C E   T I M E L I N E                       ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> EXPERIENCE.TIMELINE
-plain
-2025 ───●────────────────────────────────────────────────────────────────── NOW
-        │
-        │    ┌─────────────────────────────────────────────────────────────┐
-        │    │  CDAC — Centre for Development of Advanced Computing        │
-        │    │  ROLE: Generative AI Research Intern                        │
-        │    │  MISSION: LLM-powered Autonomous IDS/IPS                    │
-        │    │  STATUS: 🔴 LIVE                                            │
-        │    └─────────────────────────────────────────────────────────────┘
-        │
-2024 ───┼────●──────────────────●───────────────────────────────────────────
-        │    │                  │
-        │    │    ┌──────────────────────────┐
-        │    │    │ Resolute AI               │
-        │    │    │ ROLE: AI & DL Intern      │
-        │    │    └──────────────────────────┘
-        │    │
-        │    │           ┌──────────────────────────────────────────────┐
-        │    │           │ CED — Centre for Entrepreneurship Development  │
-        │    │           │ ROLE: AI & IoT Research Intern               │
-        │    │           └──────────────────────────────────────────────┘
-        │
-2023 ───┼───────────────────────────────────────────────────────────────────
-        │
-        │                            ┌──────────────────────────────────────┐
-        │                            │ Microsoft × Edunet × AICTE           │
-        │                            │ ROLE: Foundations of AI Intern       │
-        │                            │ PERIOD: Apr – May 2025               │
-        │                            └──────────────────────────────────────┘
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  R E S E A R C H   P U B L I C A T I O N                     ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-<img src="https://media.giphy.com/media/3oKIP8kNuTJJL3zT0I/giphy.gif" width="30"/> RESEARCH.PUBLICATION
-<p align="center">
-  <img src="https://img.shields.io/badge/ICACT_2026-International_Conference-22c55e?style=for-the-badge&labelColor=0f172a" alt="ICACT 2026"/>
-  <img src="https://img.shields.io/badge/Status-Accepted_&_Presented-00f5ff?style=for-the-badge&labelColor=0f172a" alt="Status"/>
-  <img src="https://img.shields.io/badge/Peer_Reviewed-Yes-f472b6?style=for-the-badge&labelColor=0f172a" alt="Peer Reviewed"/>
-</p>
-plain
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                             ║
-║     EDITH: Enhanced Daily Interaction and Therapeutic Hardware              ║
-║            for Paralysis Patient Support                                    ║
-║                                                                             ║
-║     ┌─────────────────────────────────────────────────────────────────┐     ║
-║     │  • AI-assisted modular robotics platform                         │     ║
-║     │  • Biosignal monitoring & analysis integration                   │     ║
-║     │  • Mobility assistance systems                                   │     ║
-║     │  • Rehabilitation support modules                                │     ║
-║     │  • Brain-Computer Interface (BCI) integration pathway            │     ║
-║     └─────────────────────────────────────────────────────────────────┘     ║
-║                                                                             ║
-║     Venue : ICACT 2026 International Conference                             ║
-║     Status: ✅ ACCEPTED & PRESENTED                                         ║
-║                                                                             ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  T R O P H Y   C A B I N E T                                 ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-<img src="https://media.giphy.com/media/l4FGuhL4U2WyjcgoM/giphy.gif" width="35"/> TROPHY.CABINET
-<table align="center">
-<tr>
-<td align="center" width="33%">
-🥇
-Hexaware National Hackathon
-Enterprise AI Track
-<img src="https://img.shields.io/badge/WINNER-Gold-FFD700?style=flat&labelColor=0f172a" alt="Winner"/>
-<img src="https://img.shields.io/badge/Duration-36%20Hours-00f5ff?style=flat&labelColor=0f172a" alt="36 Hours"/>
-</td>
-<td align="center" width="33%">
-🥇
-Prompt-o-Mania Hackathon
-Generative AI Track
-<img src="https://img.shields.io/badge/WINNER-Gold-FFD700?style=flat&labelColor=0f172a" alt="Winner"/>
-<img src="https://img.shields.io/badge/Focus-Prompt%20Engineering-f472b6?style=flat&labelColor=0f172a" alt="Prompt"/>
-</td>
-<td align="center" width="33%">
-🥇
-Sparathon Challenge
-Semantic Understanding
-<img src="https://img.shields.io/badge/WINNER-Gold-FFD700?style=flat&labelColor=0f172a" alt="Winner"/>
-<img src="https://img.shields.io/badge/Focus-Fine--Tuning-7c3aed?style=flat&labelColor=0f172a" alt="Fine-Tuning"/>
-</td>
-</tr>
-</table>
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  C E R T I F I C A T I O N S                                 ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30"/> CERTIFICATIONS
-<p align="center">
-  <img src="https://img.shields.io/badge/Google-5--Day_AI_Agents_Intensive-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0f172a" alt="Google"/>
-  <img src="https://img.shields.io/badge/Microsoft-Foundations_of_AI-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0f172a" alt="Microsoft"/>
-  <img src="https://img.shields.io/badge/Informatica-Data_Engineering-FF4B4B?style=for-the-badge&logo=informatica&logoColor=white&labelColor=0f172a" alt="Informatica"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Udemy-Git_&_GitHub-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=0f172a" alt="Udemy"/>
-  <img src="https://img.shields.io/badge/Infosys-Applied_Generative_AI-007CC3?style=for-the-badge&logo=infosys&logoColor=white&labelColor=0f172a" alt="Infosys"/>
-</p>
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  G I T H U B   A N A L Y T I C S   D A S H B O A R D         ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"/> GITHUB.ANALYTICS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skarthi369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=f472b6&text_color=e2e8f0&border_radius=10" alt="GitHub Stats" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarthi369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&text_color=e2e8f0&border_radius=10" alt="Top Languages" height="190"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skarthi369&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=00f5ff&ring=f472b6&fire=f472b6&currStreakNum=00f5ff&sideNums=e2e8f0&currStreakLabel=00f5ff&sideLabels=94a3b8&dates=64748b&border_radius=10" alt="GitHub Streak" width="80%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skarthi369&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=00f5ff&line=f472b6&point=7c3aed&area=true&area_color=f472b6" alt="Activity Graph" width="95%"/>
-</p>
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30"/> GITHUB.TROPHIES
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skarthi369&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&bg_color=0a0a0f" alt="GitHub Trophies" width="100%"/>
-</p>
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  N E U R A L   U P L I N K  —  C O N T A C T                 ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-<img src="https://media.giphy.com/media/l41lUjUgLLwWrz20U/giphy.gif" width="35"/> NEURAL.UPLINK
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════ ANIMATED CYAN DIVIDER ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0a0f,20:00f5ff,50:7c3aed,80:f472b6,100:0a0a0f" width="100%"/>
+<br/>
 <div align="center">
+<!-- ═══════════ ANIMATED PROFILE CARD ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=280&lines=%F0%9F%8E%93%20B.Tech%20AI%20%26%20Data%20Science%20%7C%20SA%20Engineering%20College;%F0%9F%94%AC%20Gen-AI%20Research%20Intern%20%40%20CDAC%20%E2%80%94%20LLM-powered%20IDS%2FIPS;%F0%9F%A4%96%20Deep%20in%20RAG%20%7C%20Agentic%20AI%20%7C%20LangChain%20%7C%20LangGraph;%F0%9F%96%BC%EF%B8%8F%20CNNs%20%7C%20Transformers%20%7C%20TensorFlow%20%7C%20OpenCV;%F0%9F%93%84%20EDITH%20Paper%20%E2%80%94%20ICACT%202026%20(Accepted%20%26%20Presented);%F0%9F%8F%86%203x%20Hackathon%20Winner%20%E2%80%94%20Hexaware%20%7C%20Prompt-o-Mania%20%7C%20Sparathon;%F0%9F%93%AC%20Open%20to%20Python%20Developer%20%7C%20AI-ML%20Engineer%20Roles" alt="Profile"/>
+</div>
+<br/>
+<!-- ═══════════ ANIMATED PURPLE DIVIDER ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0a0f,20:7c3aed,50:f472b6,80:00f5ff,100:0a0a0f" width="100%"/>
+<br/>
+<div align="center">
+<!-- ═══════════ ANIMATED TECH STACK TYPING ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&lines=%E2%9A%A1%20TECH%20ARSENAL%20%E2%9A%A1" alt="Tech Header"/>
+<br/><br/>
+<!-- ═══════════ SKILL BADGES ═══════════ -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=00f5ff&labelColor=0a0a0f" alt="Python"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f472b6&labelColor=0a0a0f" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=7c3aed&labelColor=0a0a0f" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-00f5ff?style=for-the-badge&logo=langchain&logoColor=00f5ff&labelColor=0a0a0f" alt="LangGraph"/>
+<br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0a0a0f" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0a0a0f" alt="Scikit-Learn"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0f" alt="Docker"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0a0a0f" alt="Flask"/>
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0a0a0f" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0a0a0f" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0a0a0f" alt="Firebase"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=4285F4&labelColor=0a0a0f" alt="GCP"/>
+</div>
+<br/>
+<!-- ═══════════ ANIMATED PINK DIVIDER ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0a0f,20:f472b6,50:00f5ff,80:7c3aed,100:0a0a0f" width="100%"/>
+<br/>
+<div align="center">
+<!-- ═══════════ ANIMATED PROJECTS HEADER ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=F472B6&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%9A%80%20FEATURED%20MISSIONS%20%F0%9F%9A%80" alt="Projects Header"/>
+<br/><br/>
+<!-- ═══════════ PROJECT 01: AI FIREWALL ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=160&lines=%F0%9F%9B%A1%EF%B8%8F%20AI%20Firewall%20%E2%80%94%20LLM-powered%20IDS%2FIPS;%E2%96%B6%20Hybrid%20Retrieval%20%2B%20LLM%20Classifier%20%E2%96%B6%20Docker%20Containerized;%E2%96%B6%20Dense%20Vector%20Embeddings%20%2B%20REST%20APIs%20%E2%96%B6%20Real-Time%20Threat%20Intel;%F0%9F%94%B4%20STATUS%3A%20OPERATIONAL" alt="AI Firewall"/>
+<br/>
+<!-- ═══════════ PROJECT 02: DEEPFAKE ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=%F0%9F%94%8D%20Deepfake%20Detection%20%E2%80%94%20CNN-Transformer%20Hybrid;%E2%96%B6%2010-Layer%20CNN%20%7C%20653K%2B%20Parameters%20%7C%2088%25%20Accuracy;%E2%96%B6%20Transformer%20Features%20%2B%20OpenCV%20Preprocessing;%F0%9F%94%B4%20STATUS%3A%20OPERATIONAL" alt="Deepfake"/>
+<br/>
+<!-- ═══════════ PROJECT 03: MINDFULCHAT ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=%F0%9F%92%AC%20MindfulChat%20%E2%80%94%20Emotion-Aware%20AI%20Wellness;%E2%96%B6%205-Agent%20Architecture%20%7C%20Local%20LLM%20%7C%20Privacy-First;%E2%96%B6%20React%20%C2%B7%20TypeScript%20%C2%B7%20Ollama%20%C2%B7%20Gemma%20%C2%B7%20NLP;%F0%9F%94%B4%20STATUS%3A%20OPERATIONAL" alt="MindfulChat"/>
+<br/>
+<!-- ═══════════ PROJECT 04-06 COMPACT ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=600&color=94A3B8&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=110&lines=%F0%9F%8E%A3%20Phishing%20URL%20Detection%20%E2%80%94%20Python%20%C2%B7%20Streamlit%20%C2%B7%20Scikit-Learn%20%C2%B7%20SSL%20Analysis%20%7C%20%F0%9F%8C%A6%EF%B8%8F%20Agentic%20Weather%20Prediction%20%E2%80%94%20LSTM%20%C2%B7%20RNN%20%C2%B7%20GNN%20%C2%B7%20RL%20%7C%20%F0%9F%A7%A9%20Multi-Agent%20Orchestration%20%E2%80%94%20AsyncIO%20%C2%B7%20LangGraph" alt="More Projects"/>
+</div>
+<br/>
+<!-- ═══════════ ANIMATED CYAN DIVIDER ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0a0f,20:00f5ff,50:7c3aed,80:f472b6,100:0a0a0f" width="100%"/>
+<br/>
+<div align="center">
+<!-- ═══════════ EXPERIENCE TYPING ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%93%8C%20EXPERIENCE%20TIMELINE%20%F0%9F%93%8C" alt="Experience Header"/>
+<br/><br/>
+<!-- ═══════════ EXPERIENCE ENTRIES ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%94%B4%20CDAC%20%E2%80%94%20Generative%20AI%20Research%20Intern%20(2025-Present);LLM-powered%20Autonomous%20IDS%2FIPS%20%7C%20Cybersecurity%20AI" alt="CDAC"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=600&color=94A3B8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%E2%97%8F%20Resolute%20AI%20%E2%80%94%20AI%20%26%20Deep%20Learning%20Intern%20(2024)%20%7C%20%E2%97%8F%20CED%20%E2%80%94%20AI%20%26%20IoT%20Research%20Intern%20(2024)%20%7C%20%E2%97%8F%20Microsoft%20x%20Edunet%20%E2%80%94%20Foundations%20of%20AI%20(Apr-May%202025)" alt="More Experience"/>
+</div>
+<br/>
+<!-- ═══════════ ANIMATED PURPLE DIVIDER ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0a0f,20:7c3aed,50:f472b6,80:00f5ff,100:0a0a0f" width="100%"/>
+<br/>
+<div align="center">
+<!-- ═══════════ RESEARCH ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%93%84%20RESEARCH%20PUBLICATION%20%F0%9F%93%84" alt="Research Header"/>
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=140&lines=EDITH%3A%20Enhanced%20Daily%20Interaction%20%26%20Therapeutic%20Hardware;%E2%96%B6%20AI-assisted%20Modular%20Robotics%20%7C%20Biosignal%20Monitoring%20%7C%20BCI%20Pathway;%E2%96%B6%20ICACT%202026%20International%20Conference%20%E2%80%94%20Accepted%20%26%20Presented" alt="Research Paper"/>
+<br/>
+<img src="https://img.shields.io/badge/ICACT_2026-International_Conference-22c55e?style=for-the-badge&labelColor=0a0a0f" alt="ICACT Badge"/>
+<img src="https://img.shields.io/badge/Peer_Reviewed-Yes-00f5ff?style=for-the-badge&labelColor=0a0a0f" alt="Peer Reviewed"/>
+</div>
+<br/>
+<!-- ═══════════ ANIMATED PINK DIVIDER ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0a0f,20:f472b6,50:00f5ff,80:7c3aed,100:0a0a0f" width="100%"/>
+<br/>
+<div align="center">
+<!-- ═══════════ TROPHIES ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%8F%86%20TROPHY%20CABINET%20%F0%9F%8F%86" alt="Trophy Header"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/%F0%9F%A5%87_Hexaware_National_Hackathon-Enterprise_AI_Track-WINNER-FFD700?style=for-the-badge&labelColor=0a0a0f" alt="Hexaware"/>
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%A5%87_Prompt--o--Mania-Generative_AI_Track-WINNER-FFD700?style=for-the-badge&labelColor=0a0a0f" alt="Prompt-o-Mania"/>
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%A5%87_Sparathon-Semantic_Understanding_&_Fine--Tuning-WINNER-FFD700?style=for-the-badge&labelColor=0a0a0f" alt="Sparathon"/>
+</div>
+<br/>
+<!-- ═══════════ ANIMATED CYAN DIVIDER ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0a0f,20:00f5ff,50:7c3aed,80:f472b6,100:0a0a0f" width="100%"/>
+<br/>
+<div align="center">
+<!-- ═══════════ CERTIFICATIONS ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%93%9C%20CERTIFICATIONS%20%F0%9F%93%9C" alt="Certs Header"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Google-AI_Agents_Intensive-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0a0a0f" alt="Google"/>
+<img src="https://img.shields.io/badge/Microsoft-Foundations_of_AI-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0a0a0f" alt="Microsoft"/>
+<br/>
+<img src="https://img.shields.io/badge/Informatica-Data_Engineering-FF4B4B?style=for-the-badge&logo=informatica&logoColor=white&labelColor=0a0a0f" alt="Informatica"/>
+<img src="https://img.shields.io/badge/Udemy-Git_&_GitHub-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=0a0a0f" alt="Udemy"/>
+<img src="https://img.shields.io/badge/Infosys-Applied_Generative_AI-007CC3?style=for-the-badge&logo=infosys&logoColor=white&labelColor=0a0a0f" alt="Infosys"/>
+</div>
+<br/>
+<!-- ═══════════ ANIMATED PURPLE DIVIDER ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0a0f,20:7c3aed,50:f472b6,80:00f5ff,100:0a0a0f" width="100%"/>
+<br/>
+<div align="center">
+<!-- ═══════════ GITHUB STATS ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=F472B6&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%93%8A%20GITHUB%20ANALYTICS%20%F0%9F%93%8A" alt="Stats Header"/>
+<br/><br/>
+<!-- ═══════════ STATS CARDS ═══════════ -->
+<img src="https://github-readme-stats.vercel.app/api?username=skarthi369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=f472b6&text_color=e2e8f0&border_radius=12" alt="Stats" height="190"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarthi369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&text_color=e2e8f0&border_radius=12" alt="Languages" height="190"/>
+<br/><br/>
+<!-- ═══════════ STREAK ═══════════ -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=skarthi369&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=00f5ff&ring=f472b6&fire=f472b6&currStreakNum=00f5ff&sideNums=e2e8f0&currStreakLabel=00f5ff&sideLabels=94a3b8&dates=64748b&border_radius=12" alt="Streak" width="85%"/>
+<br/><br/>
+<!-- ═══════════ ACTIVITY GRAPH ═══════════ -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skarthi369&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=00f5ff&line=f472b6&point=7c3aed&area=true&area_color=f472b6" alt="Activity" width="95%"/>
+<br/><br/>
+<!-- ═══════════ TROPHIES ═══════════ -->
+<img src="https://github-profile-trophy.vercel.app/?username=skarthi369&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&bg_color=0a0a0f" alt="Trophies" width="100%"/>
+</div>
+<br/>
+<!-- ═══════════ ANIMATED PINK DIVIDER ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0a0a0f,20:f472b6,50:00f5ff,80:7c3aed,100:0a0a0f" width="100%"/>
+<br/>
+<div align="center">
+<!-- ═══════════ CONTACT ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%93%AC%20NEURAL%20UPLINK%20%F0%9F%93%AC" alt="Contact Header"/>
+<br/><br/>
 <a href="https://linkedin.com/in/karthikeyan-s">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f" alt="LinkedIn"/>
 </a>
 <a href="mailto:karthikeyan123401@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Gmail"/>
-</a>
-<a href="https://github.com/skarthikeyan-s">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" alt="Gmail"/>
 </a>
 <br/><br/>
-plain
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                             ║
-║   >_ System Status    : All Neural Modules Operational                      ║
-║   >_ Last Sync        : 2026-07-15                                          ║
-║   >_ Location         : Chennai, India                                      ║
-║   >_ Availability     : OPEN FOR OPPORTUNITIES                              ║
-║                                                                             ║
-║   ┌─────────────────────────────────────────────────────────────────┐       ║
-║   │  Open to: Python Developer · AI-ML Engineer · LLM Security    │       ║
-║   │  Topics : LLM Security · GenAI Agents · Computer Vision       │       ║
-║   └─────────────────────────────────────────────────────────────────┘       ║
-║                                                                             ║
-║   "Building the future of AI, one neural network at a time."                ║
-║                                                                             ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+<!-- ═══════════ ANIMATED FOOTER MESSAGE ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=600&color=94A3B8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%22Building%20the%20future%20of%20AI%2C%20one%20neural%20network%20at%20a%20time.%22;%F0%9F%93%8D%20Chennai%2C%20India%20%7C%20Open%20to%20Python%20Developer%20%7C%20AI-ML%20Engineer" alt="Footer Message"/>
 <br/>
-<!-- CONTRIBUTION SNAKE -->
+<!-- ═══════════ CONTRIBUTION SNAKE ═══════════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skarthi369/skarthi369/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skarthi369/skarthi369/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/skarthi369/skarthi369/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/skarthi369/skarthi369/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 <br/>
-<!-- ANIMATED WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=NEURAL%20CORE%20DISCONNECTING...&fontSize=16&fontAlign=50&fontAlignY=35&color=0:00f5ff,50:7c3aed,100:f472b6&fontColor=e2e8f0&animation=twinkling&desc=Thanks%20for%20visiting%20my%20digital%20cortex&descAlign=50&descAlignY=65&descSize=12" width="100%"/>
+<!-- ═══════════ ANIMATED WAVE FOOTER ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=NEURAL%20CORE%20DISCONNECTING...&fontSize=16&fontAlign=50&fontAlignY=35&color=0:00f5ff,30:7c3aed,70:f472b6,100:00f5ff&fontColor=e2e8f0&animation=twinkling&desc=Thanks%20for%20visiting%20my%20digital%20cortex&descAlign=50&descAlignY=65&descSize=12" width="100%"/>
 <br/>
-<sub><samp><span style="color:#00f5ff"> Built with <span style="color:#f472b6"> by <b> <span style="color:#7c3aed"> Neural Core v2.0
+<sub>
 </div>
