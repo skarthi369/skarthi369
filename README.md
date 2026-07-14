@@ -1,8 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Karthikeyan+S;AI%2FML+Engineer+%7C+Python+Developer;Generative+AI+%2F+LLM+Engineer;Building+LLM-Powered+Security+%26+Vision+Systems)](https://git.io/typing-svg)
+<img src="./assets/terminal_header.svg" alt="Karthikeyan S — terminal header" width="820"/>
 
-### 🧠 B.Tech AI & Data Science | 🛡️ LLM Security Research @ CDAC | 🏆 3x Hackathon Winner | 📄 Published Researcher, ICACT 2026
+<br/>
+
+### 🧠 B.Tech AI & Data Science &nbsp;|&nbsp; 🛡️ LLM Security Research @ CDAC &nbsp;|&nbsp; 🏆 3× Hackathon Winner &nbsp;|&nbsp; 📄 Published Researcher, ICACT 2026
 
 [![GitHub](https://img.shields.io/badge/GitHub-skarthi369-181717?style=for-the-badge&logo=github)](https://github.com/skarthi369)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthikeyan_S-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karthikeyan-s)
@@ -13,20 +15,20 @@
 
 ---
 
-## 👋 About Me
+## 👋 About me
 
 - 🎓 B.Tech in **Artificial Intelligence & Data Science**, SA Engineering College, Chennai
-- 🔬 Currently a **Generative AI Research Intern at CDAC**, building an LLM-powered autonomous intrusion detection & prevention system
+- 🔬 **Generative AI Research Intern @ CDAC** — building an LLM-powered autonomous intrusion detection & prevention system
 - 🧪 Full ML lifecycle: data preprocessing → model training/evaluation → deployment via REST APIs
-- 🤖 Deep into **Generative AI / LLM engineering** — RAG, Agentic AI, LangChain, LangGraph, multi-agent systems
-- 🖼️ Strong in **Computer Vision & Deep Learning** — CNNs, Transformers, TensorFlow, OpenCV
+- 🤖 Deep in **Generative AI / LLM engineering** — RAG, agentic AI, LangChain, LangGraph, multi-agent systems
+- 🖼️ Strong in **computer vision & deep learning** — CNNs, Transformers, TensorFlow, OpenCV
 - 📄 Published: *EDITH — Enhanced Daily Interaction & Therapeutic Hardware for Paralysis Patients*, ICACT 2026 (Accepted & Presented)
-- 🏆 Winner — Hexaware National Hackathon, Prompt-o-Mania (GenAI), Sparathon (Semantic Understanding & Fine-Tuning)
+- 🏆 Winner — Hexaware National Hackathon · Prompt-o-Mania (GenAI) · Sparathon (Semantic Understanding & Fine-Tuning)
 - 📫 Open to **Python Developer / AI-ML Engineer** roles
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -43,13 +45,13 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 
-**Backend / Web**
+**Backend / web**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Tools & Cloud**
+**Tools & cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -57,61 +59,49 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured projects
 
-### 🛡️ AI Firewall — LLM-Powered IDS/IPS
+### 🛡️ AI Firewall — LLM-powered IDS/IPS
 **Python · LLMs · Docker · Embeddings · REST APIs · Cybersecurity AI**
 
-Production-grade autonomous intrusion detection & prevention system exposed via REST APIs, using LLM-assisted threat classification and embedding-based semantic analysis for real-time cybersecurity decisions. Combines dense vector embeddings with keyword search in a hybrid retrieval pipeline for contextual threat intelligence. Containerized and deployed with Docker.
+Production-grade autonomous intrusion detection & prevention system exposed via REST APIs. Combines dense vector embeddings with keyword search in a hybrid retrieval pipeline for contextual threat intelligence, then hands the result to an LLM for real-time classification. Containerized and deployed with Docker.
 
-```mermaid
-graph TD
-    A[Incoming Network Traffic] --> B[Feature & Log Extraction]
-    B --> C[Embedding-Based Semantic Analysis]
-    B --> D[Keyword / Signature Matching]
-    C --> E[Hybrid Retrieval: Threat Intelligence Context]
-    D --> E
-    E --> F[LLM Threat Classifier]
-    F -->|Malicious| G[Auto-Block / Alert - IPS]
-    F -->|Benign| H[Allow Traffic]
-    G --> I[REST API - Security Dashboard]
-    H --> I
-```
+<div align="center">
+<img src="./assets/ai_firewall_banner.svg" alt="AI Firewall — animated pipeline: traffic to feature extraction to hybrid retrieval to LLM classifier to block/allow" width="900"/>
+</div>
 
-`[GitHub](https://github.com/skarthi369) — add repo link`
+`[repo link — add once pushed]`
 
 ---
 
-### 🕵️ Deepfake Detection System — CNN-Transformer Hybrid
+### 🕵️ Deepfake Detection System — CNN-Transformer hybrid
 **TensorFlow · CNN · Transformers · OpenCV · Computer Vision**
 
 10-layer deep CNN with 653K+ parameters achieving **~88% validation accuracy** on binary deepfake classification, extended with Transformer-based feature extraction and OpenCV preprocessing for robust image analysis.
 
-`[GitHub](https://github.com/skarthi369) — add repo link`
+`[repo link — add once pushed]`
 
 ---
 
-### 💬 MindfulChat — Emotion-Aware AI Mental Wellness Assistant
-**React · TypeScript · Ollama · Gemma 4 · NLP**
+### 💬 MindfulChat — emotion-aware AI mental wellness assistant
+**React · TypeScript · Ollama · Gemma · NLP**
 
-Full-stack, privacy-first chatbot with a locally hosted LLM, featuring emotion recognition, sentiment analysis, and a 5-agent architecture (Emotion, Risk, Therapy, Memory, Report agents).
+Full-stack, privacy-first chatbot running a locally hosted LLM, with emotion recognition, sentiment analysis, and a 5-agent architecture: Emotion, Risk, Therapy, Memory, and Report agents.
 
-### 🎣 Phishing URL Detection Platform
-**Python · Streamlit · Scikit-Learn · WHOIS · SSL Analysis**
+### 🎣 Phishing URL detection platform
+**Python · Streamlit · Scikit-Learn · WHOIS · SSL analysis**
 
-ML-based phishing detector combining Scikit-Learn classifiers with Shannon entropy analysis, redirect detection, SSL validation, and brand impersonation checks.
+ML-based phishing detector combining Scikit-Learn classifiers with Shannon-entropy analysis, redirect detection, SSL validation, and brand-impersonation checks.
 
-### 🌦️ Agentic Weather Prediction System
+### 🌦️ Agentic weather prediction system
 **Python · Streamlit · LSTM · RNN · Graph Neural Networks**
 
 Autonomous forecasting platform integrating LSTM, RNN, and GNN models with reinforcement learning for continuous adaptation using real-time satellite and weather-station data.
 
-### 🧩 Multi-Agent AI Orchestration Framework
+### 🧩 Multi-agent AI orchestration framework
 **Python · AsyncIO · LangGraph**
 
 Planner–executor–reviewer multi-agent workflows with dynamic routing, state management, and checkpoint recovery.
-
-> 💡 *Tip: replace the placeholder GitHub links above with your actual repo URLs once pushed.*
 
 ---
 
@@ -124,7 +114,7 @@ Planner–executor–reviewer multi-agent workflows with dynamic routing, state 
 | AI & IoT Research Intern | CED — Centre for Entrepreneurship Development | 2024 |
 | Foundations of AI Intern | Microsoft × Edunet Foundation × AICTE | Apr–May 2025 |
 
-## 📄 Research Publication
+## 📄 Research publication
 
 **EDITH: Enhanced Daily Interaction and Therapeutic Hardware for Paralysis Patient Support**
 *ICACT 2026 International Conference — Accepted & Presented*
@@ -146,14 +136,14 @@ AI-assisted modular robotics platform integrating biosignal monitoring, mobility
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <div align="center">
 
 [![Karthikeyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarthi369&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/skarthi369)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarthi369&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/skarthi369)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarthi369&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/skarthi369)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skarthi369&theme=tokyonight&hide_border=true)](https://github.com/skarthi369)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=skarthi369&theme=tokyonight&hide_border=true)](https://github.com/skarthi369)
 
 </div>
 
@@ -161,7 +151,7 @@ AI-assisted modular robotics platform integrating biosignal monitoring, mobility
 
 <div align="center">
 
-### 📬 Let's Connect
+### 📬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karthikeyan-s)
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeyan123401@gmail.com)
