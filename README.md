@@ -1,4 +1,4 @@
-```markdown
+
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
   ║  AI ENGINEER OS v5.0  ·  LAZY-LOADING NEON MOTION GRAPHICS      ║
