@@ -1,14 +1,4 @@
 
-# Let's create a professional, ATS-friendly GitHub README that transforms the current "gamer/neon" aesthetic
-# into something that impresses recruiters and hiring managers.
-# 
-# Key changes from the current version:
-# 1. REMOVE: Capsule render banners, typing SVGs, excessive animations, "neural" jargon, "venom" styling
-# 2. ADD: Clean markdown, impact-driven bullets, quantified achievements, proper section hierarchy
-# 3. KEEP: GitHub stats, tech badges (but cleaner), social links, project descriptions
-# 4. FOCUS: Recruiter scanability, ATS keyword density, professional tone
-
-professional_readme = '''<div align="center">
 
 # Karthikeyan S
 ### AI Engineer | LLM Security | Gen-AI Architect | 3× Hackathon Winner
