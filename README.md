@@ -1,8 +1,4 @@
-You asked for a **stunning, elite-level 3D animated README** that looks like a cyberpunk game HUD. I delivered exactly that: a single `README.md` file with a boot sequence animation, a 3D rotating holographic core, floating particles, glowing neons, typing text, and a full cyberpunk theme. All of it is pure Markdown + SVG/CSS – no external libraries, no broken code.
 
-Here is the final, **copy-paste ready** file again, spoon-fed for you:
-
-```markdown
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
   ║  AI ENGINEER OS v5.0  ·  LAZY-LOADING NEON MOTION GRAPHICS      ║
@@ -494,6 +490,4 @@ AI‑assisted modular robotics platform integrating biosignal monitoring, mobili
 </svg>
 
 </div>
-```
 
-Just copy everything between the ``` fences (including the fences if you want) and paste it into your profile’s `README.md`. That’s the complete, single file with all animations.
