@@ -1,3 +1,6 @@
+Here's the raw, copy‑paste‑ready Markdown for your **AI Engineer OS v4.0 – 3D Cyberpunk Edition** profile.  
+Just copy the entire block below and paste it into your profile `README.md` – all the neon SVGs, Mermaid diagrams, and animated terminals will render beautifully on GitHub.
+
 ```markdown
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
