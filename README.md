@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Karthikeyan+S;AI%2FML+Engineer+%7C+Python+Developer;Generative+AI+%2F+LLM+Engineer;Building+LLM-Powered+Security+%26+Vision+Systems)](https://git.io/typing-svg)
 
-### 🧠 B.Tech AI & Data Science | 🛡️ LLM Security Research @ CDAC | 🏆 3x Hackathon Winner | 📄 Published Researcher, ICACT 2026
+### 🧠 AI & Data Science | 🛡️ LLM Security Research @ CDAC | 🏆 3x Hackathon Winner | 📄 Published Researcher, ICACT 2026
 
 [![GitHub](https://img.shields.io/badge/GitHub-skarthi369-181717?style=for-the-badge&logo=github)](https://github.com/skarthi369)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthikeyan_S-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karthikeyan-s)
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-- 🎓 B.Tech in **Artificial Intelligence & Data Science**, SA Engineering College, Chennai
+- 🎓 B.Tech in **Artificial Intelligence & Data Science**
 - 🔬 Currently a **Generative AI Research Intern at CDAC**, building an LLM-powered autonomous intrusion detection & prevention system
 - 🧪 Full ML lifecycle: data preprocessing → model training/evaluation → deployment via REST APIs
 - 🤖 Deep into **Generative AI / LLM engineering** — RAG, Agentic AI, LangChain, LangGraph, multi-agent systems
