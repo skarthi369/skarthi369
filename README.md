@@ -4,7 +4,7 @@
 
 <br/>
 
-### 🧠 B.Tech AI & Data Science &nbsp;|&nbsp; 🛡️ LLM Security Research @ CDAC &nbsp;|&nbsp; 🏆 3× Hackathon Winner &nbsp;|&nbsp; 📄 Published Researcher, ICACT 2026
+### 🧠 B.Tech AI & Data Science &nbsp;|&nbsp; 🛡️ AI Security Research Intern @ CDAC &nbsp;|&nbsp; 🏆 3× Hackathon Winner &nbsp;|&nbsp; 📄 Published Researcher, ICACT 2026
 
 [![GitHub](https://img.shields.io/badge/GitHub-skarthi369-181717?style=for-the-badge&logo=github)](https://github.com/skarthi369)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthikeyan_S-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karthikeyan-s)
